@@ -26,7 +26,7 @@ public class ParallelProg
 		driver=new InternetExplorerDriver();
 		driver.get("https://naukri.com");
 		System.out.println("IE browser is opened:"+""+Thread.currentThread().getId());
-		
+		System.out.println("successfully opened");
 		
 	}
 	
