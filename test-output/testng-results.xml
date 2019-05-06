@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="254218" started-at="2019-05-06T08:22:14Z" finished-at="2019-05-06T08:26:28Z">
+    <groups>
+    </groups>
+    <test name="ParallelProg" duration-ms="254218" started-at="2019-05-06T08:22:14Z" finished-at="2019-05-06T08:26:28Z">
+      <class name="com.model.ParallelProg">
+        <test-method status="PASS" signature="openIEbr()[pri:0, instance:com.model.ParallelProg@50cbc42f]" name="openIEbr" duration-ms="254168" started-at="2019-05-06T13:52:14Z" finished-at="2019-05-06T13:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openIEbr -->
+        <test-method status="PASS" signature="openChromeBr()[pri:0, instance:com.model.ParallelProg@50cbc42f]" name="openChromeBr" duration-ms="97232" started-at="2019-05-06T13:52:14Z" finished-at="2019-05-06T13:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChromeBr -->
+      </class> <!-- com.model.ParallelProg -->
+    </test> <!-- ParallelProg -->
+  </suite> <!-- Suite -->
+</testng-results>
