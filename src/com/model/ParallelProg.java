@@ -17,6 +17,8 @@ public class ParallelProg
 		driver=new ChromeDriver();
 		driver.get("https://www.youtube.com");
 		System.out.println("Chrome Browser is opened:"+""+Thread.currentThread().getId());
+		System.out.println("successfully opened");
+		
 	}
 	@Test
 	public void openIEbr()
